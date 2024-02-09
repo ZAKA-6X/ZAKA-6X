@@ -22,11 +22,10 @@ _______________
 Utilized HTML/CSS to design a sleek and responsive personal portfolio.
 
 <h4>E-commerce Platform:</h4>
-Developed an e-commerce site with dynamic frontend elements using JavaScript and CSS.
+I developed a dynamic e-commerce site utilizing HTML, CSS, and JavaScript for the front-end elements.
 
-<h4>Blog Platform:</h4>
-Created an interactive blog platform using React, showcasing my proficiency in modern frontend frameworks.
-
+<h4>Python Project:</h4> 
+I have recently embarked on my journey of learning Python. I have grasped the basics and am committed to enhancing my skills every day.
 _______
 
 These are just a glimpse of my projects. Explore my GitHub repositories for a more comprehensive collection of my work.
@@ -34,9 +33,9 @@ These are just a glimpse of my projects. Explore my GitHub repositories for a mo
 
 - 👨‍💻 All of my projects are available at [zaka-6x.co](zaka-6x.co)
 
-- 📫 How to reach me **zakariaeelallouche@gmail.com**
+- 📫 How to reach me **zaka6x@gmail.com**
 
-- ⚡ Fun fact **Git's Birth: Initial Commit Legacy.**
+- ⚡ Fun fact **Why do developers love dark mode? Because light attracts bugs. Haha!**
 _______________
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
@@ -45,20 +44,19 @@ _______________
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-  
   </p>
 
 <h3 align="center">Connect with me:</h3>
 
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/zakariae-el-allouche-293b9423b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:zakariaeelallouche@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/zakariae-el-allouche-293b9423b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.reddit.com/r/matrix6x" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/zaka-6x#5122" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://twitter.com/zakariaeelallo1" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%233D8FD1?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/zaka6x" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
 </div>
+
 
 
 
