@@ -1,5 +1,4 @@
 
-https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg
 
 <h1 align="center">Hi 👋, I'm EL ALLOUCHE Zakariae</h1>
 <h3 align="center">Software Engineering Student 👨‍💻</h3>
