@@ -1,64 +1,34 @@
+### Hi, I'm Zakariae. I build backend infrastructure for agencies.
 
+I am the founder of **6X Company**, a specialized technical partner for French & International digital agencies. I handle **asynchronous backlog resolution**—fixing bugs, optimizing APIs, and shipping React modules overnight so your core team can focus on big features.
 
-<h1 align="center">Hi 👋, I'm EL ALLOUCHE Zakariae</h1>
-<h3 align="center">Software Engineering Student 👨‍💻</h3>
+- 🔭 **Current Focus:** Building secure Node.js proxy architectures & Real-time dashboards.
+- 💼 **Business Model:** White-Label technical support (Retainer based).
+- ⚡ **Performance:** Obsessed with sub-100ms API latency and 95+ Lighthouse scores.
 
-- I'm a Software Engineering student with a passion for crafting meaningful software solutions. Proficient in HTML/CSS and Python programming, I constantly explore new technologies to broaden my skill set. As I navigate my educational journey, I'm committed to staying at the forefront of innovation, embracing challenges, and fostering a deep love for continuous learning. My goal is to contribute to the dynamic world of software development and make a positive impact through my evolving expertise. 
+---
 
-- Explore my GitHub profile to discover an array of personal projects and contributions to open-source endeavors. Feel free to navigate through and share your thoughts!
-_______________
-<h3 align="left">📜Projects:</h3>
-- Within my project portfolio, you'll find a variety of meticulously crafted websites using cutting-edge frontend technologies. Some notable titles include:
+### 🛠 Technical Stack (Production Ready)
 
-<image
-  align="right"
-  src="https://github-readme-stats.vercel.app/api?username=zaka-6x&show_icons=true&theme=radical"
-  alt="GitHub Stats"
-/>
+| **Frontend** | **Backend** | **Tools & DevOps** |
+| :--- | :--- | :--- |
+| ![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white) **React (Vite)** | ![Nodejs](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white) **Node.js** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) **Git & GitHub** |
+| ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) **Tailwind CSS** | ![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white) **Express.js** | ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) **Postman** |
+| ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white) **State Mgmt** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) **MongoDB** | ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white) **Vercel/Render** |
 
-<h4>Responsive Portfolio Site:</h4>
-Utilized HTML/CSS to design a sleek and responsive personal portfolio.
+---
 
-<h4>E-commerce Platform:</h4>
-I developed a dynamic e-commerce site utilizing HTML, CSS, and JavaScript for the front-end elements.
+### 🚀 Featured Work
 
-<h4>Python Project:</h4> 
-I have recently embarked on my journey of learning Python. I have grasped the basics and am committed to enhancing my skills every day.
-_______
+**[6X Market Data Node](https://z6x-market-node.vercel.app)** (Live Demo)
+A high-performance financial dashboard utilizing a secure Node.js proxy to bypass API rate limits and deliver real-time crypto assets visualization.
+* **Tech:** React, Tailwind, Express, Recharts, Binance API.
+* **Architecture:** Proxy Server Pattern + Server-Side Caching.
 
-These are just a glimpse of my projects. Explore my GitHub repositories for a more comprehensive collection of my work.
+---
 
+### 📫 Connect for Business
 
-- 👨‍💻 All of my projects are available at [zaka-6x.co](zaka-6x.co)
-
-- 📫 How to reach me **zaka6x@gmail.com**
-
-- ⚡ Fun fact **Why do developers love dark mode? Because light attracts bugs. Haha!**
-_______________
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  </p>
-
-<h3 align="center">Connect with me:</h3>
-
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/zakariae-el-allouche-293b9423b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.reddit.com/r/matrix6x" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/zaka-6x#5122" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="https://twitter.com/zakariaeelallo1" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%233D8FD1?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/zaka6x" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
-</div>
-
-
-
-
-
-
-
-
+I am currently accepting **1 partner agency** for Q4 2025.
+* **LinkedIn:** [linkedin.com/in/elallouchezakariae](https://www.linkedin.com/in/elallouchezakariae/)
+* **Email:** zaka6x@gmail.com
