@@ -57,6 +57,5 @@ We offer flexible retainer models designed for agency cash flow.
 Ready to improve your agency's margin and developer happiness?
 
 * 📧 **Email:** zaka6x@gmail.com
-* 🌐 **Portfolio/Case Studies:** [Link to Website if applicable]
 
 *"Code is a liability. Functionality is an asset."*
