@@ -1,4 +1,4 @@
-# Zakariae EL ALLOUCHE — @ZAKA-6X
+# Zakariae EL ALLOUCHE
 
 **Étudiant Ingénieur | 2ITE · ENSA El Jadida**  
 📍 El Jadida → Casablanca | 📧 zakariaeelallouche@gmail.com
